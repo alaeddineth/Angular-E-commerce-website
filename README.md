@@ -8,23 +8,23 @@ Angular is a powerful front-end framework, and Laravel is a robust back-end fram
 
 ## Features
 
-- [List key features or goals of your project here]
+- ..
 
 ## Usage
 
-[Provide instructions on how to set up and run your Angular application locally, including any prerequisites, installation steps, and configuration.]
+[..]
 
 ## Technologies Used
 
 - Angular
 - Laravel
-- [List other technologies, libraries, or tools you have used]
+- ..
 
 ## Getting Started
 
 [Provide a brief introduction on how to get started with your project, including how to clone the repository and any initial setup steps.]
 
 ```bash
-git clone https://github.com/yourusername/first-angular-application.git
-cd first-angular-application
-# Add more instructions here
+git clone https://github.com/alaeddineth/First_Angular_Application.git
+cd First_Angular_Application
+# ...
